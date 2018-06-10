@@ -1,14 +1,21 @@
 h1{
   text-align: center;
+  font-family: 'Great Vibes', cursive;
+  text-decoration: underline;
 
 }
 
 h2{
+  font-family: 'Great Vibes', cursive;
   color: white;
+  text-decoration: underline;
 }
 
 h4{
   text-align: center;
+  font-family: 'Great Vibes', cursive;
+  text-decoration: underline;
+
 }
 
 body{
@@ -58,11 +65,14 @@ ul{
  #skills{
   background-color: white;
   height: 100%;
-  background-repeat: no-repeat;
+  margin-bottom: 20px;
 /* color: white; */
 }
  h3{
    color:black;
+   font-family: 'Great Vibes', cursive;
+   text-decoration: underline;
+
  }
  .item{
    color:blue;
