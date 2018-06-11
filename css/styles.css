@@ -19,7 +19,7 @@ h4{
 }
 
 body{
-background-image:url('../assests/laptop.jpeg');
+/* background-image:url('../assests/laptop.jpeg'); */
 background-position: center center;
 background-color: #ddd;
 background-size: cover;
