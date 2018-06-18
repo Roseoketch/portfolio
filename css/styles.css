@@ -19,7 +19,7 @@ h4{
 }
 
 body{
-background-image:url('../assests/backg.png');
+/* background-image:url('../assests/backg.png'); */
 background-position: center center;
 background-color: #ddd;
 background-size: cover;
