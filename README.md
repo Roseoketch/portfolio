@@ -15,12 +15,12 @@ The project section has projects I built while in school and how to view them. I
 Currently there are no known bugs.
 
 ## Technologies Used
-HTML5
-CSS3
-BOOTSTRAP 3
+* HTML5
+* CSS3
+* BOOTSTRAP 3
 
 ## Support and contact details
 Email: rose.oketch@moringaschool.com
 
 ### License
-Copyright (c) 2018 **Rose Oketch and Moringa Schoolx**
+Copyright (c) 2018 **Rose Oketch and Moringa School**
