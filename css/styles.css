@@ -33,6 +33,21 @@ overflow-x: hidden;
 
 ul{
   background-color: black;
+  font-family: 'Slabo 27px', serif;
+  font-size: 25px;
+  /* padding-left: 25px; */
+}
+
+ul li:hover{
+  color:blue;
+}
+
+#proj{
+  color:white;
+}
+
+#cont{
+  color:white;
 }
 
 .parallax-container{
