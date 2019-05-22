@@ -42,8 +42,14 @@ ul{
   /* padding-left: 25px; */
 }
 
-li a:hover{
+#nav a:hover{
   color:blue;
+  background-color: #ddd;
+
+
+}
+#nav{
+  
 }
 
 #proj{
