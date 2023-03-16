@@ -3,13 +3,17 @@
 #### By **Rose Oketch**
 
 ## Description
+
 This is my personal website and partly a resume, it has about me section which briefly describes who I am, what I do and what am planning to do.
 The project section has projects I built while in school and how to view them. In the skills section has skills I have acquired so far lastly contact section this is all about how to reach me.
 
 ## Setup/Installation Requirements
+
 * You need to have github account.
 * Type this url: https://github.com/Roseoketch/portfolio on the Search areas.
-* Ones there you can view my website via this link: https://roseoketch.github.io/portfolio/.
+* Clone the project into your local machine using git clone https://github.com/Roseoketch/portfolio
+* check out to the cloned project by typing cd portfolio
+* Open the project on Visual Stuio Text Editor
 
 ## Known Bugs
 Currently there are no known bugs.
@@ -20,7 +24,7 @@ Currently there are no known bugs.
 * BOOTSTRAP 3
 
 ## Support and contact details
-Email: rose.oketch@moringaschool.com
+Email: oketchrose@gmail.com
 
 ### License
 Copyright (c) 2018 **Rose Oketch and Moringa School**
